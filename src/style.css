@@ -1,0 +1,97 @@
+a{
+    color: #586f69;
+    text-decoration: none;
+}
+.img2{
+    text-decoration: none;
+    color:  #586f69; 
+}
+.head{
+text-align:center;
+margin-top: 10%;
+margin-bottom: 10%;
+
+
+}
+.deco{
+    text-align: justify;
+    padding: 10%;
+}
+.hero{
+    background-color: rgba(230, 223, 233, 0.842);
+
+}
+.myclass{padding: 10%;
+    
+
+}
+.addtocart{
+    background-color: #586f69;
+    color: aliceblue;
+    height:max-content;
+    width:max-content
+}
+.bg-img{
+   justify-content: center;
+   padding: 5%;
+  
+
+}
+.btncolor{
+
+    background-color: #586f69;
+    color: aliceblue;
+}
+.bg-img2{
+   
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+ }
+ .btncolor2{
+    width: 100%;
+    margin-top: 5px;
+    background-color: #586f69;
+    color: aliceblue;
+ }
+ .testimonialImg{
+    align-items: flex-start;
+    text-align: left;
+   
+ }
+ .roundedimg{
+    border-radius: 50%;
+ }
+ .testimonial{
+    background-color: f1f5f4;
+ }
+.bg-img3{
+    background-image: url("img/Screenshot from 2024-11-26 14-32-27.png");
+    background-size: cover;
+    background-position: center;
+
+}
+#test{
+    padding-left: 10px;
+    padding-right: 30px;
+}
+footer{
+    background-color:  #f1f5f4;
+}
+#readmore{
+    display: none;
+}
+.tar{
+
+    background-image: url('img/1.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+.flist{
+    text-align: left;
+}
+.hrstyle{
+    color: rgb(165, 165, 165);
+}
